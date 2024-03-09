@@ -56,6 +56,7 @@ curl --location 'http://localhost:3001/user/register' \
 
 ```
 curl --location 'http://localhost:3001/movies' \
+--header 'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZWM3MDVmNDc1NTBhYzEzN2I0MTkxNiIsImVtYWlsIjoidG9zZW5kYW5hc3NuZHNzQGdtYWlsLmNvbSIsImlhdCI6MTcwOTk5NDA3OX0.vH-n7JuAIrHZABr5gqA5aw2U_vZh67a9KXKv5Rd_DFw' \
 --header 'Content-Type: application/json' \
 --data '{
   "title": "The Dark Knight",
@@ -81,7 +82,7 @@ curl --location 'http://localhost:3001/movies/search?page=1&limit=1&q=knight'
 
 ```
 curl --location --request PUT 'http://localhost:3001/movies/65eb6e11102bbdc53af1c5b8' \
---header 'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZWI3MjM2MGFiNmZiMDZmNWUwMjRkMCIsImVtYWlsIjoidG9zZW5kYW5hbmRzc0BnbWFpbC5jb20iLCJpYXQiOjE3MDk5MjkwMTR9.1R7-r6NP8XrkdSTRd1NSm3OtFZ0rdojl7BipwcT5mO0' \
+--header 'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZWM3MDVmNDc1NTBhYzEzN2I0MTkxNiIsImVtYWlsIjoidG9zZW5kYW5hc3NuZHNzQGdtYWlsLmNvbSIsImlhdCI6MTcwOTk5NDA3OX0.vH-n7JuAIrHZABr5gqA5aw2U_vZh67a9KXKv5Rd_DFw' \
 --header 'Content-Type: application/json' \
 --data '{
   "title": "Updated Movie Title",
@@ -95,7 +96,7 @@ curl --location --request PUT 'http://localhost:3001/movies/65eb6e11102bbdc53af1
 
 ```
 curl --location --request DELETE 'http://localhost:3001/movies/65eb6e11102bbdc53af1c5b8' \
---header 'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZWI3MjM2MGFiNmZiMDZmNWUwMjRkMCIsImVtYWlsIjoidG9zZW5kYW5hbmRzc0BnbWFpbC5jb20iLCJpYXQiOjE3MDk5MjkwMTR9.1R7-r6NP8XrkdSTRd1NSm3OtFZ0rdojl7BipwcT5mO0'
+--header 'x-auth-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1ZWM3MDVmNDc1NTBhYzEzN2I0MTkxNiIsImVtYWlsIjoidG9zZW5kYW5hc3NuZHNzQGdtYWlsLmNvbSIsImlhdCI6MTcwOTk5NDA3OX0.vH-n7JuAIrHZABr5gqA5aw2U_vZh67a9KXKv5Rd_DFw'
 ```
 
 ## Running Tests
