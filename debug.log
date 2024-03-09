@@ -1,0 +1,675 @@
+2024-03-08T19:17:09.324Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:17:10.160Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:17:10.161Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:17:10.177Z|-|[31merror[39m|-|[31mError during Data Source initialization: [39m
+
+[31m          Kernel.databaseConnection - {[39m
+[31m    "data": {[39m
+[31m        "err": {[39m
+[31m            "errno": -3008,[39m
+[31m            "code": "ENOTFOUND",[39m
+[31m            "syscall": "getaddrinfo",[39m
+[31m            "hostname": "host.docker.internal",[39m
+[31m            "fatal": true[39m
+[31m        }[39m
+[31m    }[39m
+[31m}[39m
+2024-03-08T19:17:12.205Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:17:12.678Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:17:12.678Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:17:12.680Z|-|[31merror[39m|-|[31mError during Data Source initialization: [39m
+
+[31m          Kernel.databaseConnection - {[39m
+[31m    "data": {[39m
+[31m        "err": {[39m
+[31m            "errno": -3008,[39m
+[31m            "code": "ENOTFOUND",[39m
+[31m            "syscall": "getaddrinfo",[39m
+[31m            "hostname": "host.docker.internal",[39m
+[31m            "fatal": true[39m
+[31m        }[39m
+[31m    }[39m
+[31m}[39m
+2024-03-08T19:55:24.094Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:55:24.611Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:55:24.611Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:55:26.873Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:55:27.165Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:55:27.166Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:57:25.934Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:57:26.422Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:57:26.422Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:57:40.750Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:57:41.053Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:57:41.053Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:57:45.618Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:57:45.911Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:57:45.912Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:59:03.093Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:59:03.653Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:59:03.653Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:59:05.747Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:59:06.059Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:59:06.059Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T19:59:34.538Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T19:59:34.986Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T19:59:34.986Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:01:18.905Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:01:19.368Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:01:19.369Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:07:08.939Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:07:09.483Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:07:09.483Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:07:11.529Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:07:11.845Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:07:11.845Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:07:11.845Z|-|[31merror[39m|-|[31mError connecting to MongoDB - {}[39m
+2024-03-08T20:08:09.207Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:08:09.697Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:08:09.697Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:08:09.697Z|-|[31merror[39m|-|[31mError connecting to MongoDB - {}[39m
+2024-03-08T20:08:11.806Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:08:12.092Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:08:12.092Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:08:12.092Z|-|[31merror[39m|-|[31mError connecting to MongoDB - {}[39m
+2024-03-08T20:08:50.923Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:08:51.426Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:08:51.426Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:08:51.809Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:08:53.609Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:08:53.903Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:08:53.903Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:08:54.298Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:12:47.424Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:12:47.989Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:12:47.989Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:12:48.383Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:12:50.027Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:12:50.365Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:12:50.365Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:12:50.719Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:13:13.259Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:13:13.703Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:13:13.704Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:13:14.064Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:13:23.006Z|-|[32minfo[39m|-|[32mUser tosendanand@gmail.com registered at 3/9/2024, 1:43:22 AM[39m
+2024-03-08T20:13:59.988Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:14:00.443Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:14:00.443Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:14:00.804Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:14:01.691Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:14:02.007Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:14:02.007Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:14:02.407Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:15:11.314Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:15:11.794Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:15:11.795Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:15:11.984Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:15:12.352Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:15:12.352Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:15:12.699Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:15:13.793Z|-|[32minfo[39m|-|[32mUser tosendanand@gmail.com logged in at 3/9/2024, 1:45:13 AM[39m
+2024-03-08T20:15:38.053Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:15:38.532Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:15:38.532Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:15:38.928Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:15:45.989Z|-|[32minfo[39m|-|[32mUser tosendanands@gmail.com registered at 3/9/2024, 1:45:45 AM[39m
+2024-03-08T20:16:10.978Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:16:11.440Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:16:11.440Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:16:11.825Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:16:49.255Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:16:49.609Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:16:49.609Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:16:49.985Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:16:51.771Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:16:52.060Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:16:52.060Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:16:52.483Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:16:54.523Z|-|[32minfo[39m|-|[32mUser tosendanandss@gmail.com registered at 3/9/2024, 1:46:54 AM[39m
+2024-03-08T20:17:09.978Z|-|[32minfo[39m|-|[32mUser tosendanandss@gmail.com logged in at 3/9/2024, 1:47:09 AM[39m
+2024-03-08T20:17:12.310Z|-|[32minfo[39m|-|[32mUser tosendanandss@gmail.com logged in at 3/9/2024, 1:47:12 AM[39m
+2024-03-08T20:28:04.691Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:28:05.032Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:28:05.032Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:28:05.406Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:28:07.232Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:28:07.377Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:28:07.377Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:28:07.785Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:28:07.932Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:28:07.932Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "data": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:28:55.950Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:28:55.951Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "data": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:29:39.181Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:29:39.182Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "data": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:32:14.366Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:32:14.665Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:32:14.665Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:32:15.052Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:32:16.567Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:32:16.738Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:32:16.738Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:32:17.100Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:32:35.957Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:32:36.248Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:32:36.248Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:32:36.616Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:32:43.230Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:32:43.230Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "data": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:33:26.173Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:33:26.466Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:33:26.466Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:33:26.847Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:33:27.770Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:33:27.919Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:33:27.919Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:33:28.282Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:33:31.766Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:33:31.916Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:33:31.916Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:33:32.327Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:33:33.808Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:33:33.809Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "data": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:33:56.433Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:33:56.747Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:33:56.747Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:33:57.127Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:33:57.971Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:33:58.119Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:33:58.119Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:33:58.497Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:34:00.720Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:34:00.720Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "data": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:34:14.641Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:34:14.914Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:34:14.914Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:34:15.281Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:34:17.665Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:34:17.666Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:35:10.996Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:35:11.264Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:35:11.264Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:35:11.652Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:36:10.655Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:36:10.836Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:36:10.836Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:36:11.218Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:36:13.428Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:36:13.581Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:36:13.581Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:36:14.002Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:36:16.421Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:36:16.421Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:36:35.766Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:36:36.067Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:36:36.067Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:36:36.468Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:36:44.554Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:36:44.708Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:36:44.709Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:36:45.076Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:36:57.582Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:36:57.750Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:36:57.751Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:36:58.111Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:37:01.425Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:37:01.425Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:40:05.306Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:40:05.307Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:40:40.567Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:40:40.892Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:40:40.892Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:40:41.288Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:40:42.378Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:40:42.566Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:40:42.566Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:40:42.951Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:40:44.544Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:40:44.696Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:40:44.697Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:40:45.062Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:40:45.765Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:40:45.913Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:40:45.913Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:40:46.281Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:40:50.177Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:40:50.178Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:41:18.800Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:41:19.068Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:41:19.069Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:41:19.469Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:43:55.125Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:43:55.125Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:45:54.274Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:45:54.597Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:45:54.597Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:45:54.970Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:45:56.901Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:45:57.051Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:45:57.051Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:45:57.448Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:46:14.066Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:46:14.328Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:46:14.328Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:46:14.693Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:46:25.449Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:46:25.724Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:46:25.724Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:46:26.100Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:46:40.453Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:46:40.619Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:46:40.619Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:46:40.962Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:46:45.521Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:46:45.676Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:46:45.676Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:46:46.031Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:47:13.618Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:47:13.783Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:47:13.783Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:47:14.161Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:47:20.445Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:47:20.615Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:47:20.616Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:47:20.980Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:47:28.474Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:47:28.622Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:47:28.622Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:47:28.996Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:47:31.186Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:47:31.337Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:47:31.337Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:47:31.727Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:51:32.899Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:51:33.264Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:51:33.264Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:51:33.647Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:51:35.621Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:51:35.792Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:51:35.792Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:51:36.171Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:51:37.433Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-08T20:51:37.434Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-08T20:52:30.584Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:52:30.931Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:52:30.931Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:52:31.386Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:52:31.729Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:52:31.902Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:52:31.902Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:52:32.249Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:52:34.670Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:52:34.821Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:52:34.821Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:52:35.174Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T20:52:38.186Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T20:52:38.334Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T20:52:38.335Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T20:52:38.719Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T21:01:32.011Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:01:32.011Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:03:24.358Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:03:24.626Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T21:03:24.626Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T21:03:25.006Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T21:03:26.989Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:03:27.239Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T21:03:27.239Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T21:03:27.629Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-08T21:03:30.219Z|-|[32minfo[39m|-|[32mUser tosendanandss@gmail.com logged in at 3/9/2024, 2:33:30 AM[39m
+2024-03-08T21:03:51.334Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:03:51.335Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:09:16.146Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:09:16.296Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:25:09.128Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-08T21:25:09.414Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-08T21:25:09.414Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-08T21:25:09.792Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:50:34.492Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:50:34.890Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:50:34.890Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:50:35.276Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:50:37.170Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:50:37.346Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:50:37.346Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:50:37.721Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:51:47.596Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:51:47.597Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:51:54.990Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:51:54.991Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:52:13.112Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:52:13.112Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:52:50.715Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:52:51.028Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:52:51.028Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:52:51.840Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:53:01.526Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:53:01.829Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:53:01.830Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:53:02.609Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:53:02.781Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:53:02.781Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:53:03.203Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:53:11.576Z|-|[32minfo[39m|-|[32mUser tosendanasndss@gmail.com registered at 3/9/2024, 7:23:11 PM[39m
+2024-03-09T13:53:18.339Z|-|[32minfo[39m|-|[32mUser tosendanandss@gmail.com logged in at 3/9/2024, 7:23:18 PM[39m
+2024-03-09T13:53:21.887Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:53:21.888Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:53:25.811Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:53:25.812Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:53:29.629Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:53:29.629Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:53:35.254Z|-|[34mdebug[39m|-|[34m{[39m
+[34m    "message": "Decoded Token",[39m
+[34m    "data": {[39m
+[34m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[34m        "email": "tosendanandss@gmail.com",[39m
+[34m        "iat": 1709929014[39m
+[34m    }[39m
+[34m}[39m
+2024-03-09T13:53:35.254Z|-|[32minfo[39m|-|[32m{[39m
+[32m    "message": "User Context",[39m
+[32m    "user": {[39m
+[32m        "id": "65eb72360ab6fb06f5e024d0",[39m
+[32m        "email": "tosendanandss@gmail.com",[39m
+[32m        "iat": 1709929014[39m
+[32m    }[39m
+[32m}[39m
+2024-03-09T13:54:17.120Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:54:17.305Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:54:17.305Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:54:18.145Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:54:50.611Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:54:50.799Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:54:50.799Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:54:51.175Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:54:56.917Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:54:57.113Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:54:57.113Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:54:57.527Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:55:58.613Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:55:58.922Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:55:58.922Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:55:59.342Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:56:00.645Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:56:00.832Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:56:00.832Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:56:01.202Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:56:07.377Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:56:07.597Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:56:07.597Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:56:07.975Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:56:28.134Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:56:28.307Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:56:28.307Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:56:28.660Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
+2024-03-09T13:56:30.323Z|-|[34mdebug[39m|-|[34mLogging initialized at debug level[39m
+2024-03-09T13:56:30.527Z|-|[32minfo[39m|-|[32mApp is running at http://localhost:3001 in development mode server.ts[39m
+2024-03-09T13:56:30.527Z|-|[32minfo[39m|-|[32mPress CTRL-C to stop server.ts[39m
+2024-03-09T13:56:30.940Z|-|[32minfo[39m|-|[32mConnected to MongoDB[39m
