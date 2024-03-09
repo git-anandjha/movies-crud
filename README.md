@@ -4,7 +4,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:git-anandjha/movies-crud.git
    ```
 2. Install dependencies:
    ```sh
